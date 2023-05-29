@@ -392,7 +392,7 @@ BEGIN
   calculate_total_payment(1100009);
   
   -- Call Procedure 3: Delete shop  vacancies
-  delete_shop_and_vacancies(3000001);
+  delete_shop_vacancies(3000001);
 END;
 /
 
