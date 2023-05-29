@@ -1,7 +1,6 @@
 --tailor shop management
 
 --by Md.Raduan Islam Rian
---ID:1907117
 --CSE,KUET
 
 -- Dropping existing tables
